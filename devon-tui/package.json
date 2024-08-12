@@ -20,7 +20,7 @@
 		"dist"
 	],
 	"dependencies": {
-		"axios": "^1.6.8",
+		"axios": "^1.7.2",
 		"ink": "^4.1.0",
 		"ink-spinner": "^5.0.0",
 		"ink-text-input": "^5.0.1",
